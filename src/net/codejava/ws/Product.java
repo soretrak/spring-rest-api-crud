@@ -1,5 +1,5 @@
 package net.codejava.ws;
-
+// hello ali
 public class Product {
 	private int id;
 	private String name;
